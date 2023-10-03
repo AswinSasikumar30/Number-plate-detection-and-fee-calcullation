@@ -1,4 +1,4 @@
-# Number_Plate_detection_and_fee_calculation
+# Number-plate-detection-and-fee-calculation
 Live number plate detection of vehicles and fee calculation based on entry and exit of vehicles through a camera
 
 Google sheet link: 
